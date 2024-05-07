@@ -27,6 +27,6 @@ public class bblsrt {
 
 /*
 List<Integer> arr = new List<Integer>{64, 34, 25, 12, 22, 11, 90};
-BubbleSortExample.bubbleSort(arr);
-BubbleSortExample.printArray(arr);
+bblsrt.bubbleSort(arr);
+bblsrt.printArray(arr);
 */
