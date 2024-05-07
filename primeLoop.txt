@@ -20,5 +20,5 @@ public class primeLoop {
 /*
 Integer lowerLimit = 1;
 Integer upperLimit = 69;
-prime.findPrimeNumber(lowerLimit,upperLimit);
+primeLoop.findPrimeNumber(lowerLimit,upperLimit);
 */
